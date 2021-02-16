@@ -1,0 +1,16 @@
+img:hover {
+    transform: scale(0.9);
+}
+
+h1 {
+    text-align: center;
+    font-size: 40;
+    font-family: fantasy;
+}
+    
+.names{
+font-size: 25;    
+}
+img{
+tab-size: 400;    
+}
